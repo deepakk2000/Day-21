@@ -1,0 +1,14 @@
+C:\Mphasis dot net\Day 21\Assignment 26\Assignment 26\bin\Debug\Assignment 26.exe.config
+C:\Mphasis dot net\Day 21\Assignment 26\Assignment 26\bin\Debug\Assignment 26.exe
+C:\Mphasis dot net\Day 21\Assignment 26\Assignment 26\bin\Debug\Assignment 26.pdb
+C:\Mphasis dot net\Day 21\Assignment 26\Assignment 26\obj\Debug\Assignment 26.csproj.AssemblyReference.cache
+C:\Mphasis dot net\Day 21\Assignment 26\Assignment 26\obj\Debug\Assignment 26.csproj.CoreCompileInputs.cache
+C:\Mphasis dot net\Day 21\Assignment 26\Assignment 26\obj\Debug\Assignment 26.exe
+C:\Mphasis dot net\Day 21\Assignment 26\Assignment 26\obj\Debug\Assignment 26.pdb
+D:\.net\Day-21\A-26\Assignment 26\bin\Debug\Assignment 26.exe.config
+D:\.net\Day-21\A-26\Assignment 26\bin\Debug\Assignment 26.exe
+D:\.net\Day-21\A-26\Assignment 26\bin\Debug\Assignment 26.pdb
+D:\.net\Day-21\A-26\Assignment 26\obj\Debug\Assignment 26.csproj.AssemblyReference.cache
+D:\.net\Day-21\A-26\Assignment 26\obj\Debug\Assignment 26.csproj.CoreCompileInputs.cache
+D:\.net\Day-21\A-26\Assignment 26\obj\Debug\Assignment 26.exe
+D:\.net\Day-21\A-26\Assignment 26\obj\Debug\Assignment 26.pdb
